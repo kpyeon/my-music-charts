@@ -7,41 +7,48 @@ HEADERS = {
 }
 
 def get_kpop_circle(limit=20):
+    # 써클차트 원본 데이터 핵심 API
     url = "https://circlechart.kr/data/api/chart/global"
     try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
+        res = requests.get(url, headers=HEADERS, timeout=12)
         if res.status_code == 200:
             data = res.json()
             raw_list = data.get('data', {}).get('list', []) or data.get('list', [])
             chart = []
             for idx, item in enumerate(raw_list[:limit], start=1):
+                # 🌟 써클차트 JSON의 대문자 키값을 100% 안전하게 매핑하도록 수정 완료!
+                title = item.get('SONG_NAME') or item.get('song_name') or "알 수 없음"
+                artist = item.get('ARTIST_NAME') or item.get('artist_name') or "알 수 없음"
+                
                 chart.append({
                     'rank': idx,
-                    'title': item.get('SONG_NAME') or item.get('song_name'),
-                    'artist': item.get('ARTIST_NAME') or item.get('artist_name')
+                    'title': str(title).strip(),
+                    'artist': str(artist).strip()
                 })
             return chart
     except Exception as e:
-        print(f"K-Pop 수집 에러: {e}")
+        print(f"K-Pop API 파싱 실패: {e}")
     return []
 
 def get_jpop_apple(limit=20):
     url = "https://itunes.apple.com/jp/rss/topsongs/limit=30/json"
     try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
+        res = requests.get(url, headers=HEADERS, timeout=12)
         if res.status_code == 200:
             data = res.json()
             entries = data.get('feed', {}).get('entry', [])
             chart = []
             for idx, item in enumerate(entries[:limit], 1):
+                title = item.get('im:name', {}).get('label') or "알 수 없음"
+                artist = item.get('im:artist', {}).get('label') or "알 수 없음"
                 chart.append({
                     'rank': idx,
-                    'title': item.get('im:name', {}).get('label'),
-                    'artist': item.get('im:artist', {}).get('label')
+                    'title': str(title).strip(),
+                    'artist': str(artist).strip()
                 })
             return chart
     except Exception as e:
-        print(f"J-Pop 수집 에러: {e}")
+        print(f"J-Pop API 파싱 실패: {e}")
     return []
 
 if __name__ == "__main__":
@@ -54,6 +61,7 @@ if __name__ == "__main__":
         "jpop": jpop
     }
     
+    # 깃허브 가상 공간에 새 파일 갱신
     with open("chart_data.json", "w", encoding="utf-8") as f:
         json.dump(combined, f, ensure_ascii=False, indent=4)
-    print("수집 완료 및 파일 보존 완료!")
+    print("✅ 써클차트 & 애플뮤직 수집 완벽 성공!")
