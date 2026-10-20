@@ -1,16 +1,117 @@
 {
-    "last_updated": "2026-10-20 08:23:38",
-    "kpop": [],
-    "jpop": [
+    "last_updated": "2026-10-20 22:17:07",
+    "kpop": [
         {
             "rank": 1,
-            "title": "結び",
-            "artist": "Ayumu Imazu"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 2,
+            "title": "SUN KISS",
+            "artist": "튜이드"
+        },
+        {
+            "rank": 3,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
+        },
+        {
+            "rank": 4,
+            "title": "I SPY",
+            "artist": "NCT WISH"
+        },
+        {
+            "rank": 5,
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
+        },
+        {
+            "rank": 6,
+            "title": "LOVE ATTACK",
+            "artist": "리센느"
+        },
+        {
+            "rank": 7,
+            "title": "Deja Vu",
+            "artist": "리센느"
+        },
+        {
+            "rank": 8,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
+        },
+        {
+            "rank": 9,
+            "title": "Pop Off Pop Off",
+            "artist": "키키"
+        },
+        {
+            "rank": 10,
+            "title": "REDRED",
+            "artist": "코르티스"
+        },
+        {
+            "rank": 11,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
+            "rank": 12,
+            "title": "Vancouver",
+            "artist": "BIG Naughty"
+        },
+        {
+            "rank": 13,
+            "title": "Pinball",
+            "artist": "리센느"
+        },
+        {
+            "rank": 14,
+            "title": "영원은 그렇듯",
+            "artist": "리도어"
+        },
+        {
+            "rank": 15,
+            "title": "GO HARD",
+            "artist": "MEOVV"
+        },
+        {
+            "rank": 16,
+            "title": "LEMONADE",
+            "artist": "aespa"
+        },
+        {
+            "rank": 17,
+            "title": "Love Options",
+            "artist": "베스티"
+        },
+        {
+            "rank": 18,
+            "title": "Looks Can Kill",
+            "artist": "아이브"
+        },
+        {
+            "rank": 19,
+            "title": "Lemon Tang",
+            "artist": "Hearts2Hearts"
+        },
+        {
+            "rank": 20,
+            "title": "퇴사할게여 (Narr. 기안84)",
+            "artist": "소연"
+        }
+    ],
+    "jpop": [
+        {
+            "rank": 1,
             "title": "しわあわせ",
             "artist": "Vaundy"
+        },
+        {
+            "rank": 2,
+            "title": "結び",
+            "artist": "Ayumu Imazu"
         },
         {
             "rank": 3,
@@ -39,13 +140,13 @@
         },
         {
             "rank": 8,
-            "title": "好きすぎて滅!",
-            "artist": "M!LK"
+            "title": "花束",
+            "artist": "back number"
         },
         {
             "rank": 9,
-            "title": "花束",
-            "artist": "back number"
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
         },
         {
             "rank": 10,
@@ -54,8 +155,8 @@
         },
         {
             "rank": 11,
-            "title": "lulu.",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 12,
@@ -64,8 +165,8 @@
         },
         {
             "rank": 13,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 14,
@@ -84,23 +185,23 @@
         },
         {
             "rank": 17,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 18,
-            "title": "シンデレラ",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 19,
             "title": "HAPPY BIRTHDAY",
             "artist": "back number"
         },
         {
+            "rank": 18,
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 19,
+            "title": "シンデレラ",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
             "rank": 20,
-            "title": "恋、はじめました。",
-            "artist": "=LOVE"
+            "title": "ブルーアンバー",
+            "artist": "back number"
         }
     ]
 }
