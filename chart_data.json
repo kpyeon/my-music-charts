@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-20 22:17:07",
+    "last_updated": "2026-10-21 22:16:34",
     "kpop": [
         {
             "rank": 1,
@@ -13,13 +13,13 @@
         },
         {
             "rank": 3,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
+            "title": "I SPY",
+            "artist": "NCT WISH"
         },
         {
             "rank": 4,
-            "title": "I SPY",
-            "artist": "NCT WISH"
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
         },
         {
             "rank": 5,
@@ -38,18 +38,18 @@
         },
         {
             "rank": 8,
+            "title": "Looks Can Kill",
+            "artist": "아이브"
+        },
+        {
+            "rank": 9,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르"
         },
         {
-            "rank": 9,
+            "rank": 10,
             "title": "Pop Off Pop Off",
             "artist": "키키"
-        },
-        {
-            "rank": 10,
-            "title": "REDRED",
-            "artist": "코르티스"
         },
         {
             "rank": 11,
@@ -58,38 +58,38 @@
         },
         {
             "rank": 12,
+            "title": "REDRED",
+            "artist": "코르티스"
+        },
+        {
+            "rank": 13,
             "title": "Vancouver",
             "artist": "BIG Naughty"
         },
         {
-            "rank": 13,
-            "title": "Pinball",
-            "artist": "리센느"
-        },
-        {
             "rank": 14,
-            "title": "영원은 그렇듯",
-            "artist": "리도어"
-        },
-        {
-            "rank": 15,
             "title": "GO HARD",
             "artist": "MEOVV"
         },
         {
+            "rank": 15,
+            "title": "영원은 그렇듯",
+            "artist": "리도어"
+        },
+        {
             "rank": 16,
+            "title": "Pinball",
+            "artist": "리센느"
+        },
+        {
+            "rank": 17,
             "title": "LEMONADE",
             "artist": "aespa"
         },
         {
-            "rank": 17,
+            "rank": 18,
             "title": "Love Options",
             "artist": "베스티"
-        },
-        {
-            "rank": 18,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
         },
         {
             "rank": 19,
@@ -98,8 +98,8 @@
         },
         {
             "rank": 20,
-            "title": "퇴사할게여 (Narr. 기안84)",
-            "artist": "소연"
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
         }
     ],
     "jpop": [
@@ -140,8 +140,8 @@
         },
         {
             "rank": 8,
-            "title": "花束",
-            "artist": "back number"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 9,
@@ -150,13 +150,13 @@
         },
         {
             "rank": 10,
-            "title": "It's Me",
-            "artist": "ILLIT"
+            "title": "花束",
+            "artist": "back number"
         },
         {
             "rank": 11,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "It's Me",
+            "artist": "ILLIT"
         },
         {
             "rank": 12,
@@ -185,23 +185,23 @@
         },
         {
             "rank": 17,
-            "title": "HAPPY BIRTHDAY",
-            "artist": "back number"
-        },
-        {
-            "rank": 18,
             "title": "爆裂愛してる",
             "artist": "M!LK"
         },
         {
+            "rank": 18,
+            "title": "HAPPY BIRTHDAY",
+            "artist": "back number"
+        },
+        {
             "rank": 19,
-            "title": "シンデレラ",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "ブルーアンバー",
+            "artist": "back number"
         },
         {
             "rank": 20,
-            "title": "ブルーアンバー",
-            "artist": "back number"
+            "title": "恋、はじめました。",
+            "artist": "=LOVE"
         }
     ]
 }
