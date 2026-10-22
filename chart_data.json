@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21 22:16:34",
+    "last_updated": "2026-10-22 22:17:37",
     "kpop": [
         {
             "rank": 1,
@@ -13,33 +13,33 @@
         },
         {
             "rank": 3,
-            "title": "I SPY",
-            "artist": "NCT WISH"
-        },
-        {
-            "rank": 4,
             "title": "CRASH",
             "artist": "ALLDAY PROJECT"
         },
         {
+            "rank": 4,
+            "title": "I SPY",
+            "artist": "NCT WISH"
+        },
+        {
             "rank": 5,
+            "title": "Looks Can Kill",
+            "artist": "아이브"
+        },
+        {
+            "rank": 6,
             "title": "노스탈지아",
             "artist": "BIG Naughty"
         },
         {
-            "rank": 6,
+            "rank": 7,
             "title": "LOVE ATTACK",
             "artist": "리센느"
         },
         {
-            "rank": 7,
+            "rank": 8,
             "title": "Deja Vu",
             "artist": "리센느"
-        },
-        {
-            "rank": 8,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
         },
         {
             "rank": 9,
@@ -48,13 +48,13 @@
         },
         {
             "rank": 10,
-            "title": "Pop Off Pop Off",
-            "artist": "키키"
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
         },
         {
             "rank": 11,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
+            "title": "Pop Off Pop Off",
+            "artist": "키키"
         },
         {
             "rank": 12,
@@ -63,13 +63,13 @@
         },
         {
             "rank": 13,
-            "title": "Vancouver",
-            "artist": "BIG Naughty"
+            "title": "GO HARD",
+            "artist": "MEOVV"
         },
         {
             "rank": 14,
-            "title": "GO HARD",
-            "artist": "MEOVV"
+            "title": "Vancouver",
+            "artist": "BIG Naughty"
         },
         {
             "rank": 15,
@@ -88,17 +88,17 @@
         },
         {
             "rank": 18,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
+        },
+        {
+            "rank": 19,
             "title": "Love Options",
             "artist": "베스티"
         },
         {
-            "rank": 19,
-            "title": "Lemon Tang",
-            "artist": "Hearts2Hearts"
-        },
-        {
             "rank": 20,
-            "title": "RUDE!",
+            "title": "Lemon Tang",
             "artist": "Hearts2Hearts"
         }
     ],
@@ -160,13 +160,13 @@
         },
         {
             "rank": 12,
-            "title": "ハッピーエンド",
-            "artist": "back number"
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 13,
-            "title": "lulu.",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "ハッピーエンド",
+            "artist": "back number"
         },
         {
             "rank": 14,
@@ -185,13 +185,13 @@
         },
         {
             "rank": 17,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
+            "title": "HAPPY BIRTHDAY",
+            "artist": "back number"
         },
         {
             "rank": 18,
-            "title": "HAPPY BIRTHDAY",
-            "artist": "back number"
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
         },
         {
             "rank": 19,
