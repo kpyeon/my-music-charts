@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24 22:11:38",
+    "last_updated": "2026-10-25 22:10:27",
     "kpop": [
         {
             "rank": 1,
@@ -18,33 +18,33 @@
         },
         {
             "rank": 4,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
-        },
-        {
-            "rank": 5,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty"
-        },
-        {
-            "rank": 6,
-            "title": "LOVE ATTACK",
-            "artist": "리센느"
-        },
-        {
-            "rank": 7,
             "title": "Rose (feat. Skinny Brown & Homeboy)",
             "artist": "양홍원"
         },
         {
+            "rank": 5,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
+        },
+        {
+            "rank": 6,
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
+        },
+        {
+            "rank": 7,
+            "title": "LOVE ATTACK",
+            "artist": "리센느"
+        },
+        {
             "rank": 8,
-            "title": "I SPY",
-            "artist": "NCT WISH"
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
         },
         {
             "rank": 9,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르"
+            "title": "I SPY",
+            "artist": "NCT WISH"
         },
         {
             "rank": 10,
@@ -68,23 +68,23 @@
         },
         {
             "rank": 14,
-            "title": "LEMONADE",
-            "artist": "aespa"
-        },
-        {
-            "rank": 15,
-            "title": "Pinball",
-            "artist": "리센느"
-        },
-        {
-            "rank": 16,
             "title": "RUDE!",
             "artist": "Hearts2Hearts"
         },
         {
+            "rank": 15,
+            "title": "LEMONADE",
+            "artist": "aespa"
+        },
+        {
+            "rank": 16,
+            "title": "Pinball",
+            "artist": "리센느"
+        },
+        {
             "rank": 17,
-            "title": "GO HARD",
-            "artist": "MEOVV"
+            "title": "Lemon Tang",
+            "artist": "Hearts2Hearts"
         },
         {
             "rank": 18,
@@ -93,13 +93,13 @@
         },
         {
             "rank": 19,
-            "title": "Lemon Tang",
-            "artist": "Hearts2Hearts"
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 20,
-            "title": "Love Options",
-            "artist": "베스티"
+            "title": "GO HARD",
+            "artist": "MEOVV"
         }
     ],
     "jpop": [
@@ -160,18 +160,18 @@
         },
         {
             "rank": 12,
+            "title": "ハッピーエンド",
+            "artist": "back number"
+        },
+        {
+            "rank": 13,
             "title": "lulu.",
             "artist": "Mrs. GREEN APPLE"
         },
         {
-            "rank": 13,
+            "rank": 14,
             "title": "IRIS OUT",
             "artist": "米津玄師"
-        },
-        {
-            "rank": 14,
-            "title": "ハッピーエンド",
-            "artist": "back number"
         },
         {
             "rank": 15,
@@ -195,12 +195,12 @@
         },
         {
             "rank": 19,
-            "title": "HAPPY BIRTHDAY",
+            "title": "ブルーアンバー",
             "artist": "back number"
         },
         {
             "rank": 20,
-            "title": "ブルーアンバー",
+            "title": "HAPPY BIRTHDAY",
             "artist": "back number"
         }
     ]
