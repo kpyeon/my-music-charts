@@ -1,5 +1,207 @@
 {
-    "last_updated": "2026-10-27 22:24:49",
-    "kpop": [],
-    "jpop": []
+    "last_updated": "2026-10-28 22:25:41",
+    "kpop": [
+        {
+            "rank": 1,
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
+        },
+        {
+            "rank": 2,
+            "title": "체포하겠어",
+            "artist": "아일릿"
+        },
+        {
+            "rank": 3,
+            "title": "Looks Can Kill",
+            "artist": "아이브"
+        },
+        {
+            "rank": 4,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
+            "rank": 5,
+            "title": "SUN KISS",
+            "artist": "튜이드"
+        },
+        {
+            "rank": 6,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
+        },
+        {
+            "rank": 7,
+            "title": "LOVE ATTACK",
+            "artist": "리센느"
+        },
+        {
+            "rank": 8,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
+        },
+        {
+            "rank": 9,
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
+        },
+        {
+            "rank": 10,
+            "title": "Deja Vu",
+            "artist": "리센느"
+        },
+        {
+            "rank": 11,
+            "title": "I SPY",
+            "artist": "NCT WISH"
+        },
+        {
+            "rank": 12,
+            "title": "REDRED",
+            "artist": "코르티스"
+        },
+        {
+            "rank": 13,
+            "title": "Pop Off Pop Off",
+            "artist": "키키"
+        },
+        {
+            "rank": 14,
+            "title": "Insomnia",
+            "artist": "RIIZE"
+        },
+        {
+            "rank": 15,
+            "title": "영원은 그렇듯",
+            "artist": "리도어"
+        },
+        {
+            "rank": 16,
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
+        },
+        {
+            "rank": 17,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
+        },
+        {
+            "rank": 18,
+            "title": "LEMONADE",
+            "artist": "aespa"
+        },
+        {
+            "rank": 19,
+            "title": "Pinball",
+            "artist": "리센느"
+        },
+        {
+            "rank": 20,
+            "title": "Lemon Tang",
+            "artist": "Hearts2Hearts"
+        }
+    ],
+    "jpop": [
+        {
+            "rank": 1,
+            "title": "しわあわせ",
+            "artist": "Vaundy"
+        },
+        {
+            "rank": 2,
+            "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+            "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。"
+        },
+        {
+            "rank": 3,
+            "title": "結び",
+            "artist": "Ayumu Imazu"
+        },
+        {
+            "rank": 4,
+            "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+            "artist": "YAO"
+        },
+        {
+            "rank": 5,
+            "title": "Brand New",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 6,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 7,
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 8,
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
+        },
+        {
+            "rank": 9,
+            "title": "花束",
+            "artist": "back number"
+        },
+        {
+            "rank": 10,
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 11,
+            "title": "シンデレラ",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 12,
+            "title": "ハッピーエンド",
+            "artist": "back number"
+        },
+        {
+            "rank": 13,
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 14,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 15,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 16,
+            "title": "IRIS OUT",
+            "artist": "米津玄師"
+        },
+        {
+            "rank": 17,
+            "title": "運命さがし",
+            "artist": "マカロニえんぴつ"
+        },
+        {
+            "rank": 18,
+            "title": "ブルーアンバー",
+            "artist": "back number"
+        },
+        {
+            "rank": 19,
+            "title": "高嶺の花子さん",
+            "artist": "back number"
+        },
+        {
+            "rank": 20,
+            "title": "HAPPY BIRTHDAY",
+            "artist": "back number"
+        }
+    ]
 }
