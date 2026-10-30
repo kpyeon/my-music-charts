@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-29 22:26:52",
+    "last_updated": "2026-10-30 22:23:10",
     "kpop": [
         {
             "rank": 1,
@@ -28,13 +28,13 @@
         },
         {
             "rank": 6,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
         },
         {
             "rank": 7,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르"
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
         },
         {
             "rank": 8,
@@ -48,58 +48,58 @@
         },
         {
             "rank": 10,
-            "title": "Deja Vu",
-            "artist": "리센느"
-        },
-        {
-            "rank": 11,
-            "title": "I SPY",
-            "artist": "NCT WISH"
-        },
-        {
-            "rank": 12,
-            "title": "REDRED",
-            "artist": "코르티스"
-        },
-        {
-            "rank": 13,
             "title": "Insomnia",
             "artist": "RIIZE"
         },
         {
+            "rank": 11,
+            "title": "Deja Vu",
+            "artist": "리센느"
+        },
+        {
+            "rank": 12,
+            "title": "I SPY",
+            "artist": "NCT WISH"
+        },
+        {
+            "rank": 13,
+            "title": "REDRED",
+            "artist": "코르티스"
+        },
+        {
             "rank": 14,
-            "title": "Pop Off Pop Off",
-            "artist": "키키"
-        },
-        {
-            "rank": 15,
-            "title": "영원은 그렇듯",
-            "artist": "리도어"
-        },
-        {
-            "rank": 16,
             "title": "삐그덕 (feat. 아이유)",
             "artist": "Crush"
         },
         {
-            "rank": 17,
+            "rank": 15,
+            "title": "Pop Off Pop Off",
+            "artist": "키키"
+        },
+        {
+            "rank": 16,
             "title": "RUDE!",
             "artist": "Hearts2Hearts"
         },
         {
-            "rank": 18,
-            "title": "LEMONADE",
-            "artist": "aespa"
+            "rank": 17,
+            "title": "영원은 그렇듯",
+            "artist": "리도어"
         },
         {
-            "rank": 19,
+            "rank": 18,
             "title": "Nicole Kidman",
             "artist": "ADÉLA"
         },
         {
+            "rank": 19,
+            "title": "Lemon Tang",
+            "artist": "Hearts2Hearts"
+        },
+        {
             "rank": 20,
-            "title": "Pinball",
-            "artist": "리센느"
+            "title": "BAD",
+            "artist": "에이티즈"
         }
     ],
     "jpop": [
@@ -130,18 +130,18 @@
         },
         {
             "rank": 6,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 7,
             "title": "ライラック",
             "artist": "Mrs. GREEN APPLE"
         },
         {
+            "rank": 7,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
             "rank": 8,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
         },
         {
             "rank": 9,
@@ -150,8 +150,8 @@
         },
         {
             "rank": 10,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 11,
@@ -190,18 +190,18 @@
         },
         {
             "rank": 18,
-            "title": "ブルーアンバー",
+            "title": "HAPPY BIRTHDAY",
             "artist": "back number"
         },
         {
             "rank": 19,
-            "title": "運命さがし",
-            "artist": "マカロニえんぴつ"
+            "title": "ブルーアンバー",
+            "artist": "back number"
         },
         {
             "rank": 20,
-            "title": "HAPPY BIRTHDAY",
-            "artist": "back number"
+            "title": "運命さがし",
+            "artist": "マカロニえんぴつ"
         }
     ]
 }
