@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-01 22:22:32",
+    "last_updated": "2026-11-02 22:27:31",
     "kpop": [
         {
             "rank": 1,
@@ -48,13 +48,13 @@
         },
         {
             "rank": 10,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty"
+            "title": "Love Options",
+            "artist": "베스티"
         },
         {
             "rank": 11,
-            "title": "Deja Vu",
-            "artist": "리센느"
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
         },
         {
             "rank": 12,
@@ -63,13 +63,13 @@
         },
         {
             "rank": 13,
-            "title": "REDRED",
-            "artist": "코르티스"
+            "title": "Deja Vu",
+            "artist": "리센느"
         },
         {
             "rank": 14,
-            "title": "Love Options",
-            "artist": "베스티"
+            "title": "REDRED",
+            "artist": "코르티스"
         },
         {
             "rank": 15,
@@ -78,28 +78,28 @@
         },
         {
             "rank": 16,
+            "title": "Nicole Kidman",
+            "artist": "ADÉLA"
+        },
+        {
+            "rank": 17,
             "title": "영원은 그렇듯",
             "artist": "리도어"
         },
         {
-            "rank": 17,
+            "rank": 18,
             "title": "RUDE!",
             "artist": "Hearts2Hearts"
         },
         {
-            "rank": 18,
+            "rank": 19,
             "title": "Pop Off Pop Off",
             "artist": "키키"
         },
         {
-            "rank": 19,
+            "rank": 20,
             "title": "It's Me",
             "artist": "아일릿"
-        },
-        {
-            "rank": 20,
-            "title": "Nicole Kidman",
-            "artist": "ADÉLA"
         }
     ],
     "jpop": [
@@ -125,13 +125,13 @@
         },
         {
             "rank": 5,
-            "title": "Brand New",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
         },
         {
             "rank": 6,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
+            "title": "Brand New",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 7,
@@ -145,18 +145,18 @@
         },
         {
             "rank": 9,
+            "title": "Slidin",
+            "artist": "HANA"
+        },
+        {
+            "rank": 10,
             "title": "花束",
             "artist": "back number"
         },
         {
-            "rank": 10,
+            "rank": 11,
             "title": "共犯",
             "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 11,
-            "title": "Slidin",
-            "artist": "HANA"
         },
         {
             "rank": 12,
@@ -165,43 +165,43 @@
         },
         {
             "rank": 13,
-            "title": "It's Me",
-            "artist": "ILLIT"
-        },
-        {
-            "rank": 14,
             "title": "NEON",
             "artist": "A2O & A2O LITE"
         },
         {
+            "rank": 14,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
             "rank": 15,
+            "title": "You’re Under Arrest",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 16,
             "title": "シンデレラ",
             "artist": "Mrs. GREEN APPLE"
         },
         {
-            "rank": 16,
+            "rank": 17,
             "title": "IRIS OUT",
             "artist": "米津玄師"
         },
         {
-            "rank": 17,
+            "rank": 18,
             "title": "lulu.",
             "artist": "Mrs. GREEN APPLE"
         },
         {
-            "rank": 18,
-            "title": "高嶺の花子さん",
-            "artist": "back number"
-        },
-        {
             "rank": 19,
-            "title": "HAPPY BIRTHDAY",
+            "title": "ブルーアンバー",
             "artist": "back number"
         },
         {
             "rank": 20,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
+            "title": "高嶺の花子さん",
+            "artist": "back number"
         }
     ]
 }
