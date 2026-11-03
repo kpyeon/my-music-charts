@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02 22:27:31",
+    "last_updated": "2026-11-03 22:27:32",
     "kpop": [
         {
             "rank": 1,
@@ -28,38 +28,38 @@
         },
         {
             "rank": 6,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
-        },
-        {
-            "rank": 7,
-            "title": "LOVE ATTACK",
-            "artist": "리센느"
-        },
-        {
-            "rank": 8,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
-        },
-        {
-            "rank": 9,
-            "title": "Insomnia",
-            "artist": "RIIZE"
-        },
-        {
-            "rank": 10,
             "title": "Love Options",
             "artist": "베스티"
         },
         {
+            "rank": 7,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
+            "rank": 8,
+            "title": "LOVE ATTACK",
+            "artist": "리센느"
+        },
+        {
+            "rank": 9,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
+        },
+        {
+            "rank": 10,
+            "title": "Insomnia",
+            "artist": "RIIZE"
+        },
+        {
             "rank": 11,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty"
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 12,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
         },
         {
             "rank": 13,
@@ -73,18 +73,18 @@
         },
         {
             "rank": 15,
-            "title": "I SPY",
-            "artist": "NCT WISH"
-        },
-        {
-            "rank": 16,
             "title": "Nicole Kidman",
             "artist": "ADÉLA"
         },
         {
+            "rank": 16,
+            "title": "With",
+            "artist": "리센느"
+        },
+        {
             "rank": 17,
-            "title": "영원은 그렇듯",
-            "artist": "리도어"
+            "title": "I SPY",
+            "artist": "NCT WISH"
         },
         {
             "rank": 18,
@@ -93,13 +93,13 @@
         },
         {
             "rank": 19,
-            "title": "Pop Off Pop Off",
-            "artist": "키키"
+            "title": "It's Me",
+            "artist": "아일릿"
         },
         {
             "rank": 20,
-            "title": "It's Me",
-            "artist": "아일릿"
+            "title": "영원은 그렇듯",
+            "artist": "리도어"
         }
     ],
     "jpop": [
@@ -110,13 +110,13 @@
         },
         {
             "rank": 2,
-            "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
-            "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。"
+            "title": "結び",
+            "artist": "Ayumu Imazu"
         },
         {
             "rank": 3,
-            "title": "結び",
-            "artist": "Ayumu Imazu"
+            "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+            "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。"
         },
         {
             "rank": 4,
@@ -125,28 +125,28 @@
         },
         {
             "rank": 5,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 6,
             "title": "Brand New",
             "artist": "Mrs. GREEN APPLE"
         },
         {
-            "rank": 7,
-            "title": "ライラック",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 8,
+            "rank": 6,
             "title": "好きすぎて滅!",
             "artist": "M!LK"
         },
         {
+            "rank": 7,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 8,
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
             "rank": 9,
-            "title": "Slidin",
-            "artist": "HANA"
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 10,
@@ -155,18 +155,18 @@
         },
         {
             "rank": 11,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "Slidin",
+            "artist": "HANA"
         },
         {
             "rank": 12,
-            "title": "ハッピーエンド",
-            "artist": "back number"
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
         },
         {
             "rank": 13,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "ハッピーエンド",
+            "artist": "back number"
         },
         {
             "rank": 14,
@@ -180,8 +180,8 @@
         },
         {
             "rank": 16,
-            "title": "シンデレラ",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 17,
@@ -190,18 +190,18 @@
         },
         {
             "rank": 18,
-            "title": "lulu.",
+            "title": "シンデレラ",
             "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 19,
-            "title": "ブルーアンバー",
-            "artist": "back number"
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 20,
-            "title": "高嶺の花子さん",
-            "artist": "back number"
+            "title": "運命さがし",
+            "artist": "マカロニえんぴつ"
         }
     ]
 }
