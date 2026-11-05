@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-04 22:34:24",
+    "last_updated": "2026-11-05 22:34:05",
     "kpop": [
         {
             "rank": 1,
@@ -28,18 +28,18 @@
         },
         {
             "rank": 6,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르"
-        },
-        {
-            "rank": 7,
             "title": "Love Options",
             "artist": "베스티"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "Finest Thing",
             "artist": "리센느"
+        },
+        {
+            "rank": 8,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
         },
         {
             "rank": 9,
@@ -58,38 +58,38 @@
         },
         {
             "rank": 12,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
-        },
-        {
-            "rank": 13,
             "title": "MEME",
             "artist": "리센느"
         },
         {
-            "rank": 14,
-            "title": "Insomnia",
-            "artist": "RIIZE"
+            "rank": 13,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
         },
         {
-            "rank": 15,
+            "rank": 14,
             "title": "Deja Vu",
             "artist": "리센느"
         },
         {
-            "rank": 16,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
-        },
-        {
-            "rank": 17,
+            "rank": 15,
             "title": "Nicole Kidman",
             "artist": "ADÉLA"
         },
         {
-            "rank": 18,
+            "rank": 16,
             "title": "Dragon",
             "artist": "리센느"
+        },
+        {
+            "rank": 17,
+            "title": "Insomnia",
+            "artist": "RIIZE"
+        },
+        {
+            "rank": 18,
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 19,
@@ -145,23 +145,23 @@
         },
         {
             "rank": 9,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 10,
-            "title": "花束",
-            "artist": "back number"
-        },
-        {
-            "rank": 11,
             "title": "You’re Under Arrest",
             "artist": "ILLIT"
         },
         {
-            "rank": 12,
+            "rank": 10,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 11,
             "title": "爆裂愛してる",
             "artist": "M!LK"
+        },
+        {
+            "rank": 12,
+            "title": "花束",
+            "artist": "back number"
         },
         {
             "rank": 13,
@@ -170,18 +170,18 @@
         },
         {
             "rank": 14,
-            "title": "ハッピーエンド",
-            "artist": "back number"
-        },
-        {
-            "rank": 15,
             "title": "It's Me",
             "artist": "ILLIT"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "title": "NEON",
             "artist": "A2O & A2O LITE"
+        },
+        {
+            "rank": 16,
+            "title": "ハッピーエンド",
+            "artist": "back number"
         },
         {
             "rank": 17,
@@ -195,13 +195,13 @@
         },
         {
             "rank": 19,
-            "title": "ブルーアンバー",
-            "artist": "back number"
+            "title": "シンデレラ",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 20,
-            "title": "シンデレラ",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "ブルーアンバー",
+            "artist": "back number"
         }
     ]
 }
