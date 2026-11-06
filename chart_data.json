@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-11-05 22:34:05",
+    "last_updated": "2026-11-06 22:27:27",
     "kpop": [
         {
             "rank": 1,
-            "title": "체포하겠어",
-            "artist": "아일릿"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 2,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "체포하겠어",
+            "artist": "아일릿"
         },
         {
             "rank": 3,
@@ -33,13 +33,13 @@
         },
         {
             "rank": 7,
-            "title": "Finest Thing",
-            "artist": "리센느"
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
         },
         {
             "rank": 8,
-            "title": "꿈꾸던 어른이 되었나요?",
-            "artist": "머무르"
+            "title": "Finest Thing",
+            "artist": "리센느"
         },
         {
             "rank": 9,
@@ -58,48 +58,48 @@
         },
         {
             "rank": 12,
-            "title": "MEME",
-            "artist": "리센느"
-        },
-        {
-            "rank": 13,
             "title": "CRASH",
             "artist": "ALLDAY PROJECT"
         },
         {
+            "rank": 13,
+            "title": "MEME",
+            "artist": "리센느"
+        },
+        {
             "rank": 14,
+            "title": "REDRED",
+            "artist": "코르티스"
+        },
+        {
+            "rank": 15,
             "title": "Deja Vu",
             "artist": "리센느"
         },
         {
-            "rank": 15,
+            "rank": 16,
             "title": "Nicole Kidman",
             "artist": "ADÉLA"
         },
         {
-            "rank": 16,
+            "rank": 17,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
+        },
+        {
+            "rank": 18,
+            "title": "It's Me",
+            "artist": "아일릿"
+        },
+        {
+            "rank": 19,
             "title": "Dragon",
             "artist": "리센느"
         },
         {
-            "rank": 17,
-            "title": "Insomnia",
-            "artist": "RIIZE"
-        },
-        {
-            "rank": 18,
+            "rank": 20,
             "title": "삐그덕 (feat. 아이유)",
             "artist": "Crush"
-        },
-        {
-            "rank": 19,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty"
-        },
-        {
-            "rank": 20,
-            "title": "REDRED",
-            "artist": "코르티스"
         }
     ],
     "jpop": [
@@ -130,18 +130,18 @@
         },
         {
             "rank": 6,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 7,
             "title": "好きすぎて滅!",
             "artist": "M!LK"
         },
         {
-            "rank": 8,
+            "rank": 7,
             "title": "ライラック",
             "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 8,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
         },
         {
             "rank": 9,
@@ -150,58 +150,58 @@
         },
         {
             "rank": 10,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 11,
             "title": "爆裂愛してる",
             "artist": "M!LK"
         },
         {
-            "rank": 12,
+            "rank": 11,
             "title": "花束",
             "artist": "back number"
         },
         {
-            "rank": 13,
-            "title": "Slidin",
-            "artist": "HANA"
-        },
-        {
-            "rank": 14,
+            "rank": 12,
             "title": "It's Me",
             "artist": "ILLIT"
         },
         {
-            "rank": 15,
+            "rank": 13,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 14,
             "title": "NEON",
             "artist": "A2O & A2O LITE"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "title": "ハッピーエンド",
             "artist": "back number"
         },
         {
-            "rank": 17,
-            "title": "lulu.",
-            "artist": "Mrs. GREEN APPLE"
+            "rank": 16,
+            "title": "BPM (feat. KREVA)",
+            "artist": "Kvi Baba"
         },
         {
-            "rank": 18,
+            "rank": 17,
             "title": "IRIS OUT",
             "artist": "米津玄師"
         },
         {
+            "rank": 18,
+            "title": "Slidin",
+            "artist": "HANA"
+        },
+        {
             "rank": 19,
-            "title": "シンデレラ",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "ブルーアンバー",
+            "artist": "back number"
         },
         {
             "rank": 20,
-            "title": "ブルーアンバー",
-            "artist": "back number"
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
         }
     ]
 }
