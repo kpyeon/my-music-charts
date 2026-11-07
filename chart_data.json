@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-06 22:27:27",
+    "last_updated": "2026-11-07 22:22:46",
     "kpop": [
         {
             "rank": 1,
@@ -38,7 +38,7 @@
         },
         {
             "rank": 8,
-            "title": "Finest Thing",
+            "title": "LOVE ATTACK",
             "artist": "리센느"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "rank": 10,
-            "title": "LOVE ATTACK",
+            "title": "Finest Thing",
             "artist": "리센느"
         },
         {
@@ -63,13 +63,13 @@
         },
         {
             "rank": 13,
-            "title": "MEME",
-            "artist": "리센느"
+            "title": "REDRED",
+            "artist": "코르티스"
         },
         {
             "rank": 14,
-            "title": "REDRED",
-            "artist": "코르티스"
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
         },
         {
             "rank": 15,
@@ -78,28 +78,28 @@
         },
         {
             "rank": 16,
-            "title": "Nicole Kidman",
-            "artist": "ADÉLA"
-        },
-        {
-            "rank": 17,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts"
-        },
-        {
-            "rank": 18,
             "title": "It's Me",
             "artist": "아일릿"
         },
         {
-            "rank": 19,
-            "title": "Dragon",
+            "rank": 17,
+            "title": "Nicole Kidman",
+            "artist": "ADÉLA"
+        },
+        {
+            "rank": 18,
+            "title": "MEME",
             "artist": "리센느"
         },
         {
-            "rank": 20,
+            "rank": 19,
             "title": "삐그덕 (feat. 아이유)",
             "artist": "Crush"
+        },
+        {
+            "rank": 20,
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
         }
     ],
     "jpop": [
@@ -140,28 +140,28 @@
         },
         {
             "rank": 8,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 9,
             "title": "You’re Under Arrest",
             "artist": "ILLIT"
         },
         {
-            "rank": 10,
+            "rank": 9,
             "title": "爆裂愛してる",
             "artist": "M!LK"
         },
         {
+            "rank": 10,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
             "rank": 11,
-            "title": "花束",
-            "artist": "back number"
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
         },
         {
             "rank": 12,
-            "title": "It's Me",
-            "artist": "ILLIT"
+            "title": "花束",
+            "artist": "back number"
         },
         {
             "rank": 13,
@@ -170,8 +170,8 @@
         },
         {
             "rank": 14,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "BPM (feat. KREVA)",
+            "artist": "Kvi Baba"
         },
         {
             "rank": 15,
@@ -180,8 +180,8 @@
         },
         {
             "rank": 16,
-            "title": "BPM (feat. KREVA)",
-            "artist": "Kvi Baba"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 17,
@@ -190,18 +190,18 @@
         },
         {
             "rank": 18,
-            "title": "Slidin",
-            "artist": "HANA"
-        },
-        {
-            "rank": 19,
             "title": "ブルーアンバー",
             "artist": "back number"
         },
         {
-            "rank": 20,
+            "rank": 19,
             "title": "lulu.",
             "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 20,
+            "title": "運命さがし",
+            "artist": "マカロニえんぴつ"
         }
     ]
 }
