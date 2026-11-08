@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07 22:22:46",
+    "last_updated": "2026-11-08 22:23:17",
     "kpop": [
         {
             "rank": 1,
@@ -23,13 +23,13 @@
         },
         {
             "rank": 5,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
+            "title": "Love Options",
+            "artist": "베스티"
         },
         {
             "rank": 6,
-            "title": "Love Options",
-            "artist": "베스티"
+            "title": "Looks Can Kill",
+            "artist": "아이브"
         },
         {
             "rank": 7,
@@ -48,8 +48,8 @@
         },
         {
             "rank": 10,
-            "title": "Finest Thing",
-            "artist": "리센느"
+            "title": "REDRED",
+            "artist": "코르티스"
         },
         {
             "rank": 11,
@@ -58,13 +58,13 @@
         },
         {
             "rank": 12,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
+            "title": "Finest Thing",
+            "artist": "리센느"
         },
         {
             "rank": 13,
-            "title": "REDRED",
-            "artist": "코르티스"
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
         },
         {
             "rank": 14,
@@ -88,8 +88,8 @@
         },
         {
             "rank": 18,
-            "title": "MEME",
-            "artist": "리센느"
+            "title": "노스탈지아",
+            "artist": "BIG Naughty"
         },
         {
             "rank": 19,
@@ -98,8 +98,8 @@
         },
         {
             "rank": 20,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty"
+            "title": "BAD",
+            "artist": "에이티즈"
         }
     ],
     "jpop": [
@@ -145,48 +145,48 @@
         },
         {
             "rank": 9,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 10,
             "title": "It's Me",
             "artist": "ILLIT"
         },
         {
-            "rank": 11,
-            "title": "ザッツ!超常",
+            "rank": 10,
+            "title": "爆裂愛してる",
             "artist": "M!LK"
         },
         {
-            "rank": 12,
+            "rank": 11,
             "title": "花束",
             "artist": "back number"
         },
         {
-            "rank": 13,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
+            "rank": 12,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
         },
         {
-            "rank": 14,
+            "rank": 13,
             "title": "BPM (feat. KREVA)",
             "artist": "Kvi Baba"
         },
         {
-            "rank": 15,
+            "rank": 14,
             "title": "ハッピーエンド",
             "artist": "back number"
         },
         {
+            "rank": 15,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
             "rank": 16,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "IRIS OUT",
+            "artist": "米津玄師"
         },
         {
             "rank": 17,
-            "title": "IRIS OUT",
-            "artist": "米津玄師"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 18,
@@ -195,13 +195,13 @@
         },
         {
             "rank": 19,
-            "title": "lulu.",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "運命さがし",
+            "artist": "マカロニえんぴつ"
         },
         {
             "rank": 20,
-            "title": "運命さがし",
-            "artist": "マカロニえんぴつ"
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
         }
     ]
 }
