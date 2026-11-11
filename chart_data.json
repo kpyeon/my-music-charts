@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10 22:27:42",
+    "last_updated": "2026-11-11 22:39:30",
     "kpop": [
         {
             "rank": 1,
@@ -28,8 +28,8 @@
         },
         {
             "rank": 6,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
+            "title": "화",
+            "artist": "Panda Gomm & 양홍원"
         },
         {
             "rank": 7,
@@ -38,28 +38,28 @@
         },
         {
             "rank": 8,
+            "title": "Looks Can Kill",
+            "artist": "아이브"
+        },
+        {
+            "rank": 9,
+            "title": "MOONWALK",
+            "artist": "Panda Gomm & 양홍원"
+        },
+        {
+            "rank": 10,
             "title": "LOVE ATTACK",
             "artist": "리센느"
         },
         {
-            "rank": 9,
+            "rank": 11,
             "title": "SUN KISS",
             "artist": "튜이드"
         },
         {
-            "rank": 10,
+            "rank": 12,
             "title": "REDRED",
             "artist": "코르티스"
-        },
-        {
-            "rank": 11,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts"
-        },
-        {
-            "rank": 12,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
         },
         {
             "rank": 13,
@@ -68,50 +68,50 @@
         },
         {
             "rank": 14,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
+        },
+        {
+            "rank": 15,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
+        },
+        {
+            "rank": 16,
             "title": "Nicole Kidman",
             "artist": "ADÉLA"
         },
         {
-            "rank": 15,
+            "rank": 17,
             "title": "It's Me",
             "artist": "아일릿"
         },
         {
-            "rank": 16,
+            "rank": 18,
             "title": "Deja Vu",
             "artist": "리센느"
         },
         {
-            "rank": 17,
-            "title": "Finest Thing",
-            "artist": "리센느"
-        },
-        {
-            "rank": 18,
-            "title": "BAD",
-            "artist": "에이티즈"
-        },
-        {
             "rank": 19,
-            "title": "노스탈지아",
-            "artist": "BIG Naughty"
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 20,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
+            "title": "Boogie Woogie",
+            "artist": "NCT DREAM"
         }
     ],
     "jpop": [
         {
             "rank": 1,
-            "title": "しわあわせ",
-            "artist": "Vaundy"
+            "title": "結び",
+            "artist": "Ayumu Imazu"
         },
         {
             "rank": 2,
-            "title": "結び",
-            "artist": "Ayumu Imazu"
+            "title": "しわあわせ",
+            "artist": "Vaundy"
         },
         {
             "rank": 3,
@@ -140,33 +140,33 @@
         },
         {
             "rank": 8,
-            "title": "好きすぎて滅!",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 9,
             "title": "BPM (feat. KREVA)",
             "artist": "Kvi Baba"
         },
         {
-            "rank": 10,
-            "title": "It's Me",
-            "artist": "ILLIT"
-        },
-        {
-            "rank": 11,
+            "rank": 9,
             "title": "花束",
             "artist": "back number"
         },
         {
-            "rank": 12,
-            "title": "爆裂愛してる",
+            "rank": 10,
+            "title": "好きすぎて滅!",
             "artist": "M!LK"
         },
         {
-            "rank": 13,
+            "rank": 11,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 12,
             "title": "ハッピーエンド",
             "artist": "back number"
+        },
+        {
+            "rank": 13,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 14,
@@ -175,8 +175,8 @@
         },
         {
             "rank": 15,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
         },
         {
             "rank": 16,
@@ -185,18 +185,18 @@
         },
         {
             "rank": 17,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
-        },
-        {
-            "rank": 18,
             "title": "IRIS OUT",
             "artist": "米津玄師"
         },
         {
-            "rank": 19,
+            "rank": 18,
             "title": "ヒロイン",
             "artist": "back number"
+        },
+        {
+            "rank": 19,
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 20,
