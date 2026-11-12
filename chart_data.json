@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11 22:39:30",
+    "last_updated": "2026-11-12 22:31:10",
     "kpop": [
         {
             "rank": 1,
@@ -8,13 +8,13 @@
         },
         {
             "rank": 2,
-            "title": "With",
-            "artist": "리센느"
+            "title": "체포하겠어",
+            "artist": "아일릿"
         },
         {
             "rank": 3,
-            "title": "체포하겠어",
-            "artist": "아일릿"
+            "title": "With",
+            "artist": "리센느"
         },
         {
             "rank": 4,
@@ -43,8 +43,8 @@
         },
         {
             "rank": 9,
-            "title": "MOONWALK",
-            "artist": "Panda Gomm & 양홍원"
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 10,
@@ -53,33 +53,33 @@
         },
         {
             "rank": 11,
+            "title": "MOONWALK",
+            "artist": "Panda Gomm & 양홍원"
+        },
+        {
+            "rank": 12,
             "title": "SUN KISS",
             "artist": "튜이드"
         },
         {
-            "rank": 12,
+            "rank": 13,
             "title": "REDRED",
             "artist": "코르티스"
         },
         {
-            "rank": 13,
+            "rank": 14,
             "title": "Rose (feat. Skinny Brown & Homeboy)",
             "artist": "양홍원"
         },
         {
-            "rank": 14,
+            "rank": 15,
             "title": "RUDE!",
             "artist": "Hearts2Hearts"
         },
         {
-            "rank": 15,
+            "rank": 16,
             "title": "CRASH",
             "artist": "ALLDAY PROJECT"
-        },
-        {
-            "rank": 16,
-            "title": "Nicole Kidman",
-            "artist": "ADÉLA"
         },
         {
             "rank": 17,
@@ -88,13 +88,13 @@
         },
         {
             "rank": 18,
-            "title": "Deja Vu",
-            "artist": "리센느"
+            "title": "Nicole Kidman",
+            "artist": "ADÉLA"
         },
         {
             "rank": 19,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
+            "title": "Deja Vu",
+            "artist": "리센느"
         },
         {
             "rank": 20,
@@ -102,106 +102,5 @@
             "artist": "NCT DREAM"
         }
     ],
-    "jpop": [
-        {
-            "rank": 1,
-            "title": "結び",
-            "artist": "Ayumu Imazu"
-        },
-        {
-            "rank": 2,
-            "title": "しわあわせ",
-            "artist": "Vaundy"
-        },
-        {
-            "rank": 3,
-            "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
-            "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。"
-        },
-        {
-            "rank": 4,
-            "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
-            "artist": "YAO"
-        },
-        {
-            "rank": 5,
-            "title": "Brand New",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 6,
-            "title": "You’re Under Arrest",
-            "artist": "ILLIT"
-        },
-        {
-            "rank": 7,
-            "title": "ライラック",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 8,
-            "title": "BPM (feat. KREVA)",
-            "artist": "Kvi Baba"
-        },
-        {
-            "rank": 9,
-            "title": "花束",
-            "artist": "back number"
-        },
-        {
-            "rank": 10,
-            "title": "好きすぎて滅!",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 11,
-            "title": "It's Me",
-            "artist": "ILLIT"
-        },
-        {
-            "rank": 12,
-            "title": "ハッピーエンド",
-            "artist": "back number"
-        },
-        {
-            "rank": 13,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 14,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 15,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 16,
-            "title": "ブルーアンバー",
-            "artist": "back number"
-        },
-        {
-            "rank": 17,
-            "title": "IRIS OUT",
-            "artist": "米津玄師"
-        },
-        {
-            "rank": 18,
-            "title": "ヒロイン",
-            "artist": "back number"
-        },
-        {
-            "rank": 19,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
-        },
-        {
-            "rank": 20,
-            "title": "HAPPY BIRTHDAY",
-            "artist": "back number"
-        }
-    ]
+    "jpop": []
 }
