@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-11-12 22:31:10",
+    "last_updated": "2026-11-13 22:31:50",
     "kpop": [
         {
             "rank": 1,
-            "title": "NEON",
-            "artist": "A2O & A2O LITE"
+            "title": "체포하겠어",
+            "artist": "아일릿"
         },
         {
             "rank": 2,
-            "title": "체포하겠어",
-            "artist": "아일릿"
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
         },
         {
             "rank": 3,
@@ -28,8 +28,8 @@
         },
         {
             "rank": 6,
-            "title": "화",
-            "artist": "Panda Gomm & 양홍원"
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 7,
@@ -38,13 +38,13 @@
         },
         {
             "rank": 8,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
+            "title": "화",
+            "artist": "Panda Gomm & 양홍원"
         },
         {
             "rank": 9,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
+            "title": "Looks Can Kill",
+            "artist": "아이브"
         },
         {
             "rank": 10,
@@ -53,13 +53,13 @@
         },
         {
             "rank": 11,
-            "title": "MOONWALK",
-            "artist": "Panda Gomm & 양홍원"
+            "title": "SUN KISS",
+            "artist": "튜이드"
         },
         {
             "rank": 12,
-            "title": "SUN KISS",
-            "artist": "튜이드"
+            "title": "MOONWALK",
+            "artist": "Panda Gomm & 양홍원"
         },
         {
             "rank": 13,
@@ -93,14 +93,115 @@
         },
         {
             "rank": 19,
-            "title": "Deja Vu",
-            "artist": "리센느"
+            "title": "하지하지마",
+            "artist": "GOT7"
         },
         {
             "rank": 20,
-            "title": "Boogie Woogie",
-            "artist": "NCT DREAM"
+            "title": "Deja Vu",
+            "artist": "리센느"
         }
     ],
-    "jpop": []
+    "jpop": [
+        {
+            "rank": 1,
+            "title": "結び",
+            "artist": "Ayumu Imazu"
+        },
+        {
+            "rank": 2,
+            "title": "しわあわせ",
+            "artist": "Vaundy"
+        },
+        {
+            "rank": 3,
+            "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+            "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。"
+        },
+        {
+            "rank": 4,
+            "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+            "artist": "YAO"
+        },
+        {
+            "rank": 5,
+            "title": "Brand New",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 6,
+            "title": "You’re Under Arrest",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 7,
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 8,
+            "title": "BPM (feat. KREVA)",
+            "artist": "Kvi Baba"
+        },
+        {
+            "rank": 9,
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 10,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 11,
+            "title": "花束",
+            "artist": "back number"
+        },
+        {
+            "rank": 12,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 13,
+            "title": "ハッピーエンド",
+            "artist": "back number"
+        },
+        {
+            "rank": 14,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 15,
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 16,
+            "title": "IRIS OUT",
+            "artist": "米津玄師"
+        },
+        {
+            "rank": 17,
+            "title": "ブルーアンバー",
+            "artist": "back number"
+        },
+        {
+            "rank": 18,
+            "title": "ヒロイン",
+            "artist": "back number"
+        },
+        {
+            "rank": 19,
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
+        },
+        {
+            "rank": 20,
+            "title": "lulu.",
+            "artist": "Mrs. GREEN APPLE"
+        }
+    ]
 }
