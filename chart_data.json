@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-14 22:23:50",
+    "last_updated": "2026-11-15 22:26:09",
     "kpop": [
         {
             "rank": 1,
@@ -23,13 +23,13 @@
         },
         {
             "rank": 5,
-            "title": "백화요란 (Inside Out)",
-            "artist": "리센느"
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
         },
         {
             "rank": 6,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
+            "title": "백화요란 (Inside Out)",
+            "artist": "리센느"
         },
         {
             "rank": 7,
@@ -48,13 +48,13 @@
         },
         {
             "rank": 10,
-            "title": "화",
-            "artist": "Panda Gomm & 양홍원"
+            "title": "SUN KISS",
+            "artist": "튜이드"
         },
         {
             "rank": 11,
-            "title": "SUN KISS",
-            "artist": "튜이드"
+            "title": "화",
+            "artist": "Panda Gomm & 양홍원"
         },
         {
             "rank": 12,
@@ -63,23 +63,23 @@
         },
         {
             "rank": 13,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
-        },
-        {
-            "rank": 14,
             "title": "RUDE!",
             "artist": "Hearts2Hearts"
         },
         {
+            "rank": 14,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
             "rank": 15,
-            "title": "MOONWALK",
-            "artist": "Panda Gomm & 양홍원"
+            "title": "하지하지마",
+            "artist": "GOT7"
         },
         {
             "rank": 16,
-            "title": "하지하지마",
-            "artist": "GOT7"
+            "title": "It's Me",
+            "artist": "아일릿"
         },
         {
             "rank": 17,
@@ -88,18 +88,18 @@
         },
         {
             "rank": 18,
-            "title": "It's Me",
-            "artist": "아일릿"
+            "title": "BAD",
+            "artist": "에이티즈"
         },
         {
             "rank": 19,
-            "title": "Nicole Kidman",
-            "artist": "ADÉLA"
+            "title": "MOONWALK",
+            "artist": "Panda Gomm & 양홍원"
         },
         {
             "rank": 20,
-            "title": "BAD",
-            "artist": "에이티즈"
+            "title": "Nicole Kidman",
+            "artist": "ADÉLA"
         }
     ],
     "jpop": [
@@ -135,13 +135,13 @@
         },
         {
             "rank": 7,
-            "title": "ライラック",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
         },
         {
             "rank": 8,
-            "title": "好きすぎて滅!",
-            "artist": "M!LK"
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 9,
@@ -165,28 +165,28 @@
         },
         {
             "rank": 13,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 14,
             "title": "ハッピーエンド",
             "artist": "back number"
         },
         {
+            "rank": 14,
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
+        },
+        {
             "rank": 15,
+            "title": "ヒロイン",
+            "artist": "back number"
+        },
+        {
+            "rank": 16,
             "title": "ザッツ!超常",
             "artist": "M!LK"
         },
         {
-            "rank": 16,
+            "rank": 17,
             "title": "IRIS OUT",
             "artist": "米津玄師"
-        },
-        {
-            "rank": 17,
-            "title": "ヒロイン",
-            "artist": "back number"
         },
         {
             "rank": 18,
@@ -200,8 +200,8 @@
         },
         {
             "rank": 20,
-            "title": "lulu.",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "高嶺の花子さん",
+            "artist": "back number"
         }
     ]
 }
