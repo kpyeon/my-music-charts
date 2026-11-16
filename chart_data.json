@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-15 22:26:09",
+    "last_updated": "2026-11-16 22:35:07",
     "kpop": [
         {
             "rank": 1,
@@ -48,38 +48,38 @@
         },
         {
             "rank": 10,
-            "title": "SUN KISS",
-            "artist": "튜이드"
-        },
-        {
-            "rank": 11,
-            "title": "화",
-            "artist": "Panda Gomm & 양홍원"
-        },
-        {
-            "rank": 12,
             "title": "REDRED",
             "artist": "코르티스"
         },
         {
-            "rank": 13,
+            "rank": 11,
+            "title": "SUN KISS",
+            "artist": "튜이드"
+        },
+        {
+            "rank": 12,
             "title": "RUDE!",
             "artist": "Hearts2Hearts"
         },
         {
-            "rank": 14,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
-        },
-        {
-            "rank": 15,
+            "rank": 13,
             "title": "하지하지마",
             "artist": "GOT7"
         },
         {
-            "rank": 16,
+            "rank": 14,
+            "title": "화",
+            "artist": "Panda Gomm & 양홍원"
+        },
+        {
+            "rank": 15,
             "title": "It's Me",
             "artist": "아일릿"
+        },
+        {
+            "rank": 16,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
         },
         {
             "rank": 17,
@@ -93,13 +93,13 @@
         },
         {
             "rank": 19,
-            "title": "MOONWALK",
-            "artist": "Panda Gomm & 양홍원"
+            "title": "Nicole Kidman",
+            "artist": "ADÉLA"
         },
         {
             "rank": 20,
-            "title": "Nicole Kidman",
-            "artist": "ADÉLA"
+            "title": "Deja Vu",
+            "artist": "리센느"
         }
     ],
     "jpop": [
@@ -125,23 +125,23 @@
         },
         {
             "rank": 5,
-            "title": "Brand New",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 6,
             "title": "You’re Under Arrest",
             "artist": "ILLIT"
         },
         {
+            "rank": 6,
+            "title": "Brand New",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
             "rank": 7,
-            "title": "好きすぎて滅!",
-            "artist": "M!LK"
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 8,
-            "title": "ライラック",
-            "artist": "Mrs. GREEN APPLE"
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
         },
         {
             "rank": 9,
@@ -160,23 +160,23 @@
         },
         {
             "rank": 12,
-            "title": "共犯",
-            "artist": "Mrs. GREEN APPLE"
-        },
-        {
-            "rank": 13,
             "title": "ハッピーエンド",
             "artist": "back number"
         },
         {
+            "rank": 13,
+            "title": "共犯",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
             "rank": 14,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
+            "title": "ヒロイン",
+            "artist": "back number"
         },
         {
             "rank": 15,
-            "title": "ヒロイン",
-            "artist": "back number"
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
         },
         {
             "rank": 16,
@@ -185,13 +185,13 @@
         },
         {
             "rank": 17,
-            "title": "IRIS OUT",
-            "artist": "米津玄師"
+            "title": "ブルーアンバー",
+            "artist": "back number"
         },
         {
             "rank": 18,
-            "title": "ブルーアンバー",
-            "artist": "back number"
+            "title": "IRIS OUT",
+            "artist": "米津玄師"
         },
         {
             "rank": 19,
