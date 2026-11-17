@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-16 22:35:07",
+    "last_updated": "2026-11-17 22:41:16",
     "kpop": [
         {
             "rank": 1,
@@ -58,38 +58,38 @@
         },
         {
             "rank": 12,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts"
-        },
-        {
-            "rank": 13,
             "title": "하지하지마",
             "artist": "GOT7"
         },
         {
-            "rank": 14,
-            "title": "화",
-            "artist": "Panda Gomm & 양홍원"
+            "rank": 13,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
         },
         {
-            "rank": 15,
+            "rank": 14,
             "title": "It's Me",
             "artist": "아일릿"
         },
         {
-            "rank": 16,
+            "rank": 15,
             "title": "Rose (feat. Skinny Brown & Homeboy)",
             "artist": "양홍원"
         },
         {
+            "rank": 16,
+            "title": "화",
+            "artist": "Panda Gomm & 양홍원"
+        },
+        {
             "rank": 17,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
+            "title": "BAD",
+            "artist": "에이티즈"
         },
         {
             "rank": 18,
-            "title": "BAD",
-            "artist": "에이티즈"
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
         },
         {
             "rank": 19,
@@ -98,8 +98,8 @@
         },
         {
             "rank": 20,
-            "title": "Deja Vu",
-            "artist": "리센느"
+            "title": "Boogie Woogie",
+            "artist": "NCT DREAM"
         }
     ],
     "jpop": [
@@ -140,23 +140,23 @@
         },
         {
             "rank": 8,
-            "title": "好きすぎて滅!",
-            "artist": "M!LK"
-        },
-        {
-            "rank": 9,
             "title": "It's Me",
             "artist": "ILLIT"
         },
         {
+            "rank": 9,
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
+        },
+        {
             "rank": 10,
-            "title": "BPM (feat. KREVA)",
-            "artist": "Kvi Baba"
+            "title": "花束",
+            "artist": "back number"
         },
         {
             "rank": 11,
-            "title": "花束",
-            "artist": "back number"
+            "title": "BPM (feat. KREVA)",
+            "artist": "Kvi Baba"
         },
         {
             "rank": 12,
@@ -170,17 +170,17 @@
         },
         {
             "rank": 14,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 15,
             "title": "ヒロイン",
             "artist": "back number"
         },
         {
-            "rank": 15,
-            "title": "爆裂愛してる",
-            "artist": "M!LK"
-        },
-        {
             "rank": 16,
-            "title": "ザッツ!超常",
+            "title": "爆裂愛してる",
             "artist": "M!LK"
         },
         {
