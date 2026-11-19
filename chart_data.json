@@ -1,5 +1,106 @@
 {
-    "last_updated": "2026-11-18 22:40:34",
-    "kpop": [],
+    "last_updated": "2026-11-19 22:37:39",
+    "kpop": [
+        {
+            "rank": 1,
+            "title": "체포하겠어",
+            "artist": "아일릿"
+        },
+        {
+            "rank": 2,
+            "title": "NEON",
+            "artist": "A2O & A2O LITE"
+        },
+        {
+            "rank": 3,
+            "title": "With",
+            "artist": "리센느"
+        },
+        {
+            "rank": 4,
+            "title": "Love Options",
+            "artist": "베스티"
+        },
+        {
+            "rank": 5,
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
+        },
+        {
+            "rank": 6,
+            "title": "꿈꾸던 어른이 되었나요?",
+            "artist": "머무르"
+        },
+        {
+            "rank": 7,
+            "title": "백화요란 (Inside Out)",
+            "artist": "리센느"
+        },
+        {
+            "rank": 8,
+            "title": "Looks Can Kill",
+            "artist": "아이브"
+        },
+        {
+            "rank": 9,
+            "title": "REDRED",
+            "artist": "코르티스"
+        },
+        {
+            "rank": 10,
+            "title": "LOVE ATTACK",
+            "artist": "리센느"
+        },
+        {
+            "rank": 11,
+            "title": "SUN KISS",
+            "artist": "튜이드"
+        },
+        {
+            "rank": 12,
+            "title": "하지하지마",
+            "artist": "GOT7"
+        },
+        {
+            "rank": 13,
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
+        },
+        {
+            "rank": 14,
+            "title": "It's Me",
+            "artist": "아일릿"
+        },
+        {
+            "rank": 15,
+            "title": "Angel Bite",
+            "artist": "투모로우바이투게더"
+        },
+        {
+            "rank": 16,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
+            "rank": 17,
+            "title": "BAD",
+            "artist": "에이티즈"
+        },
+        {
+            "rank": 18,
+            "title": "CRASH",
+            "artist": "ALLDAY PROJECT"
+        },
+        {
+            "rank": 19,
+            "title": "Nicole Kidman",
+            "artist": "ADÉLA"
+        },
+        {
+            "rank": 20,
+            "title": "Deja Vu",
+            "artist": "리센느"
+        }
+    ],
     "jpop": []
 }
