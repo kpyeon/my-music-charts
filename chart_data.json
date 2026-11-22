@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-21 02:54:49",
+    "last_updated": "2026-11-22 01:45:38",
     "kpop": [
         {
             "rank": 1,
@@ -43,8 +43,8 @@
         },
         {
             "rank": 9,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
+            "title": "Angel Bite",
+            "artist": "투모로우바이투게더"
         },
         {
             "rank": 10,
@@ -53,18 +53,18 @@
         },
         {
             "rank": 11,
-            "title": "Angel Bite",
-            "artist": "투모로우바이투게더"
+            "title": "Looks Can Kill",
+            "artist": "아이브"
         },
         {
             "rank": 12,
-            "title": "SUN KISS",
-            "artist": "튜이드"
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
         },
         {
             "rank": 13,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts"
+            "title": "SUN KISS",
+            "artist": "튜이드"
         },
         {
             "rank": 14,
@@ -78,28 +78,28 @@
         },
         {
             "rank": 16,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
-        },
-        {
-            "rank": 17,
-            "title": "BAD",
-            "artist": "에이티즈"
-        },
-        {
-            "rank": 18,
-            "title": "Ling Ling",
-            "artist": "검정치마"
-        },
-        {
-            "rank": 19,
             "title": "기립 (GiiiRIP)",
             "artist": "BIGBANG"
         },
         {
+            "rank": 17,
+            "title": "All I Want for Christmas Is You",
+            "artist": "Mariah Carey"
+        },
+        {
+            "rank": 18,
+            "title": "BAD",
+            "artist": "에이티즈"
+        },
+        {
+            "rank": 19,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
             "rank": 20,
-            "title": "CRASH",
-            "artist": "ALLDAY PROJECT"
+            "title": "Ling Ling",
+            "artist": "검정치마"
         }
     ],
     "jpop": []
