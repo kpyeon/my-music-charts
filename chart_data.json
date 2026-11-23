@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-22 01:45:38",
+    "last_updated": "2026-11-23 02:03:54",
     "kpop": [
         {
             "rank": 1,
@@ -53,13 +53,13 @@
         },
         {
             "rank": 11,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
+            "title": "RUDE!",
+            "artist": "Hearts2Hearts"
         },
         {
             "rank": 12,
-            "title": "RUDE!",
-            "artist": "Hearts2Hearts"
+            "title": "Looks Can Kill",
+            "artist": "아이브"
         },
         {
             "rank": 13,
@@ -73,18 +73,18 @@
         },
         {
             "rank": 15,
-            "title": "하지하지마",
-            "artist": "GOT7"
-        },
-        {
-            "rank": 16,
             "title": "기립 (GiiiRIP)",
             "artist": "BIGBANG"
         },
         {
-            "rank": 17,
+            "rank": 16,
             "title": "All I Want for Christmas Is You",
             "artist": "Mariah Carey"
+        },
+        {
+            "rank": 17,
+            "title": "하지하지마",
+            "artist": "GOT7"
         },
         {
             "rank": 18,
@@ -93,14 +93,115 @@
         },
         {
             "rank": 19,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
+            "title": "Ling Ling",
+            "artist": "검정치마"
         },
         {
             "rank": 20,
-            "title": "Ling Ling",
-            "artist": "검정치마"
+            "title": "첫 눈",
+            "artist": "EXO"
         }
     ],
-    "jpop": []
+    "jpop": [
+        {
+            "rank": 1,
+            "title": "結び",
+            "artist": "Ayumu Imazu"
+        },
+        {
+            "rank": 2,
+            "title": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+            "artist": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。"
+        },
+        {
+            "rank": 3,
+            "title": "しわあわせ",
+            "artist": "Vaundy"
+        },
+        {
+            "rank": 4,
+            "title": "You’re Under Arrest",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 5,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
+            "rank": 6,
+            "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+            "artist": "YAO"
+        },
+        {
+            "rank": 7,
+            "title": "好きすぎて滅!",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 8,
+            "title": "Brand New",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 9,
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE"
+        },
+        {
+            "rank": 10,
+            "title": "花束",
+            "artist": "back number"
+        },
+        {
+            "rank": 11,
+            "title": "ヒロイン",
+            "artist": "back number"
+        },
+        {
+            "rank": 12,
+            "title": "ハッピーエンド",
+            "artist": "back number"
+        },
+        {
+            "rank": 13,
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 14,
+            "title": "ザッツ!超常",
+            "artist": "M!LK"
+        },
+        {
+            "rank": 15,
+            "title": "BPM (feat. KREVA)",
+            "artist": "Kvi Baba"
+        },
+        {
+            "rank": 16,
+            "title": "IRIS OUT",
+            "artist": "米津玄師"
+        },
+        {
+            "rank": 17,
+            "title": "ブルーアンバー",
+            "artist": "back number"
+        },
+        {
+            "rank": 18,
+            "title": "HAPPY BIRTHDAY",
+            "artist": "back number"
+        },
+        {
+            "rank": 19,
+            "title": "高嶺の花子さん",
+            "artist": "back number"
+        },
+        {
+            "rank": 20,
+            "title": "クリスマスソング",
+            "artist": "back number"
+        }
+    ]
 }
