@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-27 03:51:36",
+    "last_updated": "2026-11-28 03:37:54",
     "kpop": [
         {
             "rank": 1,
@@ -23,28 +23,28 @@
         },
         {
             "rank": 5,
-            "title": "삐그덕 (feat. 아이유)",
-            "artist": "Crush"
-        },
-        {
-            "rank": 6,
-            "title": "백화요란 (Inside Out)",
-            "artist": "리센느"
-        },
-        {
-            "rank": 7,
             "title": "꿈꾸던 어른이 되었나요?",
             "artist": "머무르"
         },
         {
+            "rank": 6,
+            "title": "삐그덕 (feat. 아이유)",
+            "artist": "Crush"
+        },
+        {
+            "rank": 7,
+            "title": "백화요란 (Inside Out)",
+            "artist": "리센느"
+        },
+        {
             "rank": 8,
-            "title": "Angel Bite",
-            "artist": "투모로우바이투게더"
+            "title": "REDRED",
+            "artist": "코르티스"
         },
         {
             "rank": 9,
-            "title": "REDRED",
-            "artist": "코르티스"
+            "title": "Angel Bite",
+            "artist": "투모로우바이투게더"
         },
         {
             "rank": 10,
@@ -58,8 +58,8 @@
         },
         {
             "rank": 12,
-            "title": "기립 (GiiiRIP)",
-            "artist": "BIGBANG"
+            "title": "It's Me",
+            "artist": "아일릿"
         },
         {
             "rank": 13,
@@ -68,13 +68,13 @@
         },
         {
             "rank": 14,
-            "title": "It's Me",
-            "artist": "아일릿"
+            "title": "Looks Can Kill",
+            "artist": "아이브"
         },
         {
             "rank": 15,
-            "title": "Looks Can Kill",
-            "artist": "아이브"
+            "title": "기립 (GiiiRIP)",
+            "artist": "BIGBANG"
         },
         {
             "rank": 16,
@@ -83,18 +83,18 @@
         },
         {
             "rank": 17,
+            "title": "Rose (feat. Skinny Brown & Homeboy)",
+            "artist": "양홍원"
+        },
+        {
+            "rank": 18,
             "title": "All I Want for Christmas Is You",
             "artist": "Mariah Carey"
         },
         {
-            "rank": 18,
+            "rank": 19,
             "title": "Ling Ling",
             "artist": "검정치마"
-        },
-        {
-            "rank": 19,
-            "title": "Rose (feat. Skinny Brown & Homeboy)",
-            "artist": "양홍원"
         },
         {
             "rank": 20,
@@ -125,22 +125,22 @@
         },
         {
             "rank": 5,
-            "title": "It's Me",
-            "artist": "ILLIT"
-        },
-        {
-            "rank": 6,
             "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
             "artist": "YAO"
         },
         {
+            "rank": 6,
+            "title": "It's Me",
+            "artist": "ILLIT"
+        },
+        {
             "rank": 7,
-            "title": "Brand New",
+            "title": "ライラック",
             "artist": "Mrs. GREEN APPLE"
         },
         {
             "rank": 8,
-            "title": "ライラック",
+            "title": "Brand New",
             "artist": "Mrs. GREEN APPLE"
         },
         {
@@ -170,13 +170,13 @@
         },
         {
             "rank": 14,
-            "title": "ザッツ!超常",
-            "artist": "M!LK"
+            "title": "BPM (feat. KREVA)",
+            "artist": "Kvi Baba"
         },
         {
             "rank": 15,
-            "title": "BPM (feat. KREVA)",
-            "artist": "Kvi Baba"
+            "title": "爆裂愛してる",
+            "artist": "M!LK"
         },
         {
             "rank": 16,
@@ -185,7 +185,7 @@
         },
         {
             "rank": 17,
-            "title": "爆裂愛してる",
+            "title": "ザッツ!超常",
             "artist": "M!LK"
         },
         {
